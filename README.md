@@ -13,7 +13,8 @@
 * カレンダーネオ（https://github.com/1D04KSk-sana/karenda-year）  
   └C#  
   └VisualStudio  
-  └EntityFramework  
+  └EntityFramework
+  
 * 大阪バスアプリ（https://github.com/1D04KSk-sana/BussApp）  
   └Flutter（Dart）  
   └VisualStudioCode  
@@ -25,7 +26,8 @@
   └C#  
   └VisualStudio  
   └EntityFramework  
-  └Figma  
+  └Figma
+  
 * どこバス  
   └Flutter（Dart）  
   └VisualStudioCode  
