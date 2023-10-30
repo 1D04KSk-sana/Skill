@@ -9,7 +9,7 @@
 * HTML,CSS
 * JavaScript
 
-# 個人作成アプリ
+# 個人制作アプリ
 * カレンダーネオ（https://github.com/1D04KSk-sana/karenda-year）  
   └C#  
   └VisualStudio  
