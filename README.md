@@ -10,12 +10,12 @@
 * JavaScript
 
 # 個人制作アプリ
-* カレンダーネオ（https://github.com/1D04KSk-sana/karenda-year）  
+* カレンダーネオ（ https://github.com/1D04KSk-sana/karenda-year ）  
   └C#  
   └VisualStudio  
   └EntityFramework
   
-* 大阪バスアプリ（https://github.com/1D04KSk-sana/BussApp）  
+* 大阪バスアプリ（ https://github.com/1D04KSk-sana/BussApp ）  
   └Flutter（Dart）  
   └VisualStudioCode  
   └GoogleMapAPI  
