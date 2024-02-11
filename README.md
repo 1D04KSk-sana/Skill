@@ -35,7 +35,7 @@
   └Figma  
 
 * 使いやすーい君2号（ https://github.com/1D04KSk-sana/SalesManagement_SysDev ）  
-  └C#
+  └C#  
   └VisualStudio2022  
   └VisualStudioCode  
   └Googleドキュメント  
