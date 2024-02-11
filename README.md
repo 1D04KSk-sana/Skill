@@ -22,7 +22,7 @@
   └Figma
 
 # チーム制作アプリ
-* Ikuji  
+* Ikuji（ https://github.com/1D04KSk-sana/Ikuji ）  
   └C#  
   └VisualStudio  
   └EntityFramework  
