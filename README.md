@@ -21,7 +21,7 @@
   └GoogleMapAPI  
   └Figma
 
-* レストラン見つける君  
+* レストラン見つける君　←NEW！  
   └Kotlin  
   └AndroidStudio    
   └ホットペッパーグルメAPI  
@@ -40,7 +40,7 @@
   └GoogleMapAPI  
   └Figma  
 
-* 使いやすーい君2号（ https://github.com/1D04KSk-sana/SalesManagement_SysDev ）  
+* 使いやすーい君2号　←NEW!!（ https://github.com/1D04KSk-sana/SalesManagement_SysDev ）  
   └C#  
   └VisualStudio2022  
   └VisualStudioCode  
