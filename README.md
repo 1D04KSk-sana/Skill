@@ -3,6 +3,7 @@
 
 # 経験言語（習熟度順）
 * C#
+* Kotlin
 * Python
 * Flutter
 * HTML,CSS
