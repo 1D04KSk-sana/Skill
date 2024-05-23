@@ -5,7 +5,6 @@
 * C#
 * Python
 * Flutter
-* Kotlin
 * HTML,CSS
 * JavaScript
 
@@ -21,13 +20,19 @@
   └GoogleMapAPI  
   └Figma
 
+* レストラン見つける君  
+  └Kotlin  
+  └AndroidStudio    
+  └ホットペッパーグルメAPI  
+  └Figma  
+    
 # チーム制作アプリ
 * Ikuji（ https://github.com/1D04KSk-sana/Ikuji ）  
   └C#  
   └VisualStudio  
   └EntityFramework  
   └Figma
-  
+
 * どこバス  
   └Flutter（Dart）  
   └VisualStudioCode  
@@ -40,5 +45,4 @@
   └VisualStudioCode  
   └Googleドキュメント  
   └Figma
-  └Figma  
   
